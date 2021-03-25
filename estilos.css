@@ -11,13 +11,6 @@ FIELDSET{ !border:solid #220000 8px;
           background-color:#ffffaa;
           MARGIN:2PX;}
 
-          
-Legend{ border:solid 0px #ffffff;
-        padding:5px;
-        font-weight: bold;
-        background: #080008;
-        COLOR:#FFFFFF;}
-
 
 p{ !font-size: 64px;
     color:#000000;}
@@ -31,17 +24,11 @@ h1{ color: GOLD;
     !background-color:#000000;}
 
 
-a{ background-color: pink;}
-
-
 .di{ background-color: #ffffaa;
      color: #000000;
      !border: 10px solid #111100;
      margin: 0px;
      padding: 10px;}
-
-
-a:hover{ background-color: gold;}
 
 
 .GOLD:hover{ color:GOLD!important;
