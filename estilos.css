@@ -13,12 +13,13 @@ FIELDSET{ !border:solid #220000 8px;
 
 
 p{ !font-size: 64px;
-    color:#000000;}
+    color:#000000;
+      text-shadow:1px 1px 1px}
 
 
 h1{ color: GOLD;
     text-align: center;
-    text-shadow: black 3px 3PX 0;
+    text-shadow: black 3px 3PX 1px;
     font-size: 48px;
     line-height: 40px;
     !background-color:#000000;}
