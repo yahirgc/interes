@@ -1,0 +1,87 @@
+body{ margin:20px;
+      background-color: #ffffcc;
+      COLOR:#FFFFFF;
+      FONT-FAMILY:quicksand;
+      FONT-SIZE:24PX;}
+
+
+FIELDSET{ !border:solid #220000 8px; 
+          padding:16px;
+          TEXT-ALIGN:LEFT;
+          background-color:#ffffaa;
+          MARGIN:2PX;}
+
+          
+Legend{ border:solid 0px #ffffff;
+        padding:5px;
+        font-weight: bold;
+        background: #080008;
+        COLOR:#FFFFFF;}
+
+
+p{ !font-size: 64px;
+    color:#000000;}
+
+
+h1{ color: GOLD;
+    text-align: center;
+    text-shadow: black 3px 3PX 0;
+    font-size: 48px;
+    line-height: 40px;
+    !background-color:#000000;}
+
+
+a{ background-color: pink;}
+
+
+.di{ background-color: #ffffaa;
+     color: #000000;
+     !border: 10px solid #111100;
+     margin: 0px;
+     padding: 10px;}
+
+
+a:hover{ background-color: gold;}
+
+
+.GOLD:hover{ color:GOLD!important;
+             background-color:#FFFFAA!important;
+             text-shadow: black 3px 3PX 0;
+             text-align: center;}
+
+.GOLD{ color:GOLD!important;
+       background-color:#FFFFCC!important;
+       text-shadow: black 2px 2PX 0;}
+
+
+
+.anio0{background-color:#faaaaa!important;
+       text-align: center;}
+
+
+.anio0:hover{ background-color:#f55555!important;
+              text-align: center;}
+
+.anio1{
+        background-color:#afaaaa;
+       text-align: center;}
+
+
+.anio1:hover {background-color:#5f5555;
+              text-align: center;}
+
+
+.anio2{background-color:#aafaaa;
+       text-align: center;}
+
+
+.anio2:hover {background-color:#55f555;
+              text-align: center;}
+
+
+.anio3{background-color:#aaaafa;
+       text-align: center;}
+
+
+.anio3:hover {background-color:#5555f5;
+              text-align: center;}
